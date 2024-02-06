@@ -8,9 +8,9 @@ Our robot's entire electronics architecture is contained within the following fo
 Printed circuit boards files are contained within the following folder : 
 
 When you add a printed circuit board design, you must :
--Provide the entire KiCad project
--Give your project a descriptive name and provide a README file
--Make sure you have added an identifier to your PCB design's silk screen, this identifier should be constructed according to the following rules :
+-Provide the entire KiCad project  
+-Give your project a descriptive name and provide a README file  
+-Make sure you have added an identifier to your PCB design's silk screen, this identifier should be constructed according to the following rules :  
 <NameOfPCB>_<JJ/MM/AA>_<Vnum1.num2>
 NameOfPCB should provide a succinct understanding of the board's primary purpose.
 JJ/MM/AA is the date the printed circuit board design was finished.
