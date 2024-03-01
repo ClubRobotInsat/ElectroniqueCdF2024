@@ -1,8 +1,0 @@
-Motor Driver :
--Encoder footprint has too narrow holes
--Better silkscreen options to consider (such as the +12V pin vs GND pins)
-
-Alim Primaire :
-
-Alim Secondaire :
-
