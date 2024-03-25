@@ -7,6 +7,6 @@ Goal : Ensure the level shifter circuit's response is fairly functional. No meas
 
 Communication with Accelerometer modules : 
 
-![433927368_398352096289369_6638250062905905082_n](https://github.com/ClubRobotInsat/ElectroniqueCdF2024/assets/117256858/b6cc8a94-7846-41f6-b65d-d0f33ce5ac02)
+![434039679_1584786718954050_3885021504934443679_n (2)](https://github.com/ClubRobotInsat/ElectroniqueCdF2024/assets/117256858/570908c2-1b31-48e0-b6ab-f793f97ecd62)
 
 Goal : Ensure the proposed circuit is correct and the accelerometer modules can be communicated with. Firmware on Liam's personal Linux computer STM CubeIDE.
