@@ -10,6 +10,7 @@
 
 ## Herkulex Driver board V0.0
 -Servo connector erroneously provides 3.3V , documentation states/specifies 5V min for servo operation
+[Corrected in Version V1.0 of Herkulex Driver Board]
 
 ## All boards
 - STM32 boards are supplied via Vin, Vin theoretically should be supplied with a voltage between 7V and 12V (which then feeds into a Low Dropout Regulator). However we supply Vin with 5V, they still work but we are not operating in optimal conditions.
