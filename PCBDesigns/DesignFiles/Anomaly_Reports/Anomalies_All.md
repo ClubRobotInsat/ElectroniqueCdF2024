@@ -9,7 +9,7 @@
 - Battery connector footprint has +Vbatt and GND pins swapped. Current solution: put connector on bottom face of board.
 
 ## Herkulex Driver board V0.0
--Servo connector erroneously provides 3.3V , documentation states/specifies 5V min for servo operation
+-Servo connector erroneously provides 3.3V , documentation states/specifies 5V min for servo operation  
 [Corrected in Version V1.0 of Herkulex Driver Board]
 
 ## All boards
