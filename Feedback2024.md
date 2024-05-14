@@ -19,3 +19,5 @@ its purpose is to help the club to improve and guide newcomers with experience-d
 - Potentially offload calculations to a GPU or FPGA
 - Schottky diodes to protect power supply reverse current surges
 - Buy some new, improved, esthetically pleasing conformal coating for the boards
+- Maintain changelogs of PCBs - textfile in project repo
+- Clean/Re-organize electronics/PCB repo.
