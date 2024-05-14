@@ -20,4 +20,8 @@ its purpose is to help the club to improve and guide newcomers with experience-d
 - Schottky diodes to protect power supply reverse current surges
 - Buy some new, improved, esthetically pleasing conformal coating for the boards
 - Maintain changelogs of PCBs - textfile in project repo
-- Clean/Re-organize electronics/PCB repo.
+- Clean/Re-organize electronics/PCB repo. Proposals:
+  - Move all old/unused cards into "archive" folder
+  - Moving forwards, keep all PDB projects in main PCB repo, with a "this year's current cards" repo containing links towards the associated repos, as well as aditional files relevant to the year (anomaly file, feedback file etc.)
+  - However, we can also consider keeping anomaly file in main PCB repo.
+  - Put checklist/design rules/routines in the main PCB repo, or keep it in the documentation, with a link towards the relevant page in the main PCB repo
